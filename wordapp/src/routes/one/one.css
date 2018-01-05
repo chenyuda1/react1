@@ -1,0 +1,123 @@
+    *{margin: 0;padding: 0}
+
+    .ov{width:100%;overflow-x: hidden}
+    .res{overflow: hidden;}
+    .res>img{height:100;width:100%}
+    .first{width:12rem;height:6rem;display: inline-block}
+    .cont{width:85rem;overflow: hidden;}
+    .shop{width:100%;height:2rem;line-height: 2rem;background: #fff}
+    .list{height:100%;width:100%;background-size:cover }
+    #silder{width:15rem;border:1px solid #ccc}
+    .nic{display: block;width:0.2rem;margin-left:0.5rem;height:1rem;margin-right:0.5rem;background: red;float: left;margin-top:0.5rem}
+    .pri{margin-top: 0.5rem}
+    .filx1{width:8rem;height:6rem;background-size:cover}
+    .filx2{width:100%;height:6rem;display: inline-block}
+    .red{color:Red}
+    .buy{height:1.5rem;min-width:4rem;max-width:100%;background:red;float: right}
+    .jiao{width:0.1rem;height:1rem;background: red;display: block;position: absolute;right:0.02rem;top:5rem}
+    .title{font-size: 1.5rem;width:12rem;height:2rem;white-space: nowrap;overflow: hidden;text-overflow: ellipsis}
+        body {
+            background: #eee;
+            font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            color:#000;
+            margin: 0;  
+            padding: 0;
+        }
+        .good {
+            width: 100%;
+            height: 6rem;
+            overflow: hidden
+        
+        }
+    #silder  {
+        width:20rem!important;
+            font-size:0.5rem;
+            height:6rem;
+            background: #fff;
+        
+            /* Center slide text vertically */
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+        
+        
+        } 
+        .shopp{width:100%;height:2rem;line-height: 2rem;background: #fff;margin-top:1rem}
+    
+    .good{overflow: hidden;} 
+        body {
+            background: #eee;
+            font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            color:#000;
+            margin: 0;
+            padding: 0;
+        }
+
+        .ogoods {
+            text-align: center;
+            font-size: 18px;
+            background: #fff;
+        height:100%; 
+        width:10rem;
+        margin-right:2rem
+        
+        
+        }
+        .ii{width:100%;height:100%;background-size: cover}
+        .big{height:100%;width:100%;margin-top:1rem}
+        .au{padding-left:1%;width:98%;overflow-x: hidden}
+        .auo>img{background-size: cover;height:100%;width:100%;}
+        .tit{position: absolute;;bottom:0;width:100%;height:2rem;background:rgba(0,0,0,0);color:#fff;line-height: 2rem;}
+        .sell{display: flex;}
+        .selle{display: flex;border-bottom:1px solid #ccc;padding-bottom:1rem}
+    .o{flex: 1;text-align: right;color:Red}
+    .l{flex: 2;font-size:1rem;white-space: nowrap;overflow: hidden;text-overflow: ellipsis}
+    .i{flex: 1;text-align: right;color:Red}
+        .f{flex: 2;font-size:0.5rem;color:#ccc}
+    .support{border-right:1px solid #ccc}
+    .baifen{overflow-x: hidden;width:100%}
+    .comlist{margin:1rem 0 1rem 0;color:#999}
+    .auo{height:100%;width:100%;position: relative;display: block}
+    .finish{height:2rem;min-width:5rem;background:rgba(0,0,0,0.5) ;position: absolute;top:2rem;left:-0.2rem;z-index: 500;text-align: center;line-height:2rem;color:#fff;font-weight: bold}
+    .list-wrap{height:100%!important;width:100%;overflow: hidden;position: static !important}
+    .ant-progress-bg{background:red}
+    .ant-progress-inner{background: #E8BABA}
+    .au>div{margin-top:1rem}
+    .title{width:100%;height:50%;text-align: center;font-size:1.2rem;color:#999}
+    .int{padding-left:0.2rem;font-size:0.4rem;color:#cecece ;width:100%}
+    .small{overflow: hidden}
+    .small>div{margin:1rem 0 1rem 0}
+    .money{height:100%;width:100%;text-align: center;font-size:0.9rem}
+    .money2{font-size: 1.2rem;color:red}
+    .form{margin:auto!important;
+        display: flex;width:98%;height:100%;border:1px solid #999;}
+    .GEZI{flex:1;border: 1px solid #999;margin: 0.1rem;text-align: center;font-size: 2.5vw ; color:#999}
+    .tag-money{font-size: 4vw;text-align: center;padding-bottom:0.5rem;padding-top:0.5rem;width:100%;color:#000}
+    .gezi{float: right;color:red}
+    .bigge{width:98%;margin:1rem auto!important;height:100%;font-size:1rem;border-bottom: 1px solid #ccc;padding-bottom: 1rem}
+    .ji{color:#000;float: right}
+
+
+
+    .p{width:100%;border: 0.03rem solid #ccc}
+    .pp{width:20%;margin: auto;text-align: center;position: relative;left:0;bottom:-0.5rem;background: rgb(255, 255, 255);color:#ccc}
+    .bigege{display: flex;width:98%;margin:auto!important}
+    .jii{flex: 2;text-align: right;color:#ccc}
+    .bige{flex: 1}
+    .icon-r{font-size: 0.2rem!important}
+    .alld>div{display: inline-block;}
+    .alld{width:97%;line-height:2rem;height:2.5rem;margin: auto}
+    .headUrl{width:2.5rem;height:2.5rem;border-radius: 50%;overflow: hidden;float: left;}
+    .headUrl>img{background-size: cover;width:100%;height:100%;vertical-align:middle}
+    .nickname{float: left;line-height:2.5rem;padding-left:1rem}
+    .praise{line-height:2.5rem;float:right}
+    .comment{width:80%;margin:auto;margin-top:0.5rem}
+    .pinlun{width:100%;height:100%;margin:1rem 0 1rem 0}
+    .pis{width:98%;margin: auto!important}
+    .pick{width:6rem;display:inline-block;margin:1rem 0.5rem}
+    .pick img{background-size: cover;height:100%;width:100%} 
+    .noder{width:92%;margin-left:4%;padding-left:4%;border-left:1px solid #ccc}
+    .point{width: 0.5rem ;height:0.5rem;border-radius: 50%;background-color: red;display: block;position: absolute;left:3vw;}
+    #fix{margin:1rem 0}

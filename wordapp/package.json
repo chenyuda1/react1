@@ -1,0 +1,32 @@
+{
+  "name": "wordapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^2.13.10",
+    "antd-mobile": "^2.0.3",
+    "qs": "^6.5.1",
+    "react": "15.0.0",
+    "react-dom": "15.0.0",
+    "react-redux": "^5.0.6",
+    "react-router": "2.8.1",
+    "react-scripts": "1.0.17",
+    "redux": "^3.1.4",
+    "swiper": "^4.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": {
+    "/api": {
+      "target": "http://api.laozihaojia.com",
+      "changeOrigin": true,
+      "pathRewrite": {
+        "^/api": ""
+      }
+    }
+  }
+}

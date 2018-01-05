@@ -1,0 +1,17 @@
+
+*{margin: 0;padding: 0}
+li{list-style: none;display: inline;height:30px;
+    padding-left:15px;padding-right:15px ;color:#ccc }
+a{text-decoration: none;}  
+    .header a{margin-left:0.5rem}
+.header{height:100%;background: white;font-size:1vw;line-height: 30px;width:100%;}
+.login{position: fixed;;width:75%;left: 10%;top:5rem;max-height:20rem;height:100%;background:#ccc}
+.loo{text-align: center;padding-top:1.5rem}
+.phone{margin:auto}
+.phone input{width:95%;margin-left:2.5%;height:2.3rem;margin-top:2rem}
+.btn{width:95.3%;margin-left:2.5%;height:2.5rem;margin-top:0.5rem;border:none;color:#999}
+.wx{border-top:1px solid #999;width:95%;margin-left:2.5%;margin-top:1.5rem;height:7rem}
+.img{height:3rem;width:3rem;margin: auto;background-image: url("1.jpg");background-size:cover ; margin-top:1rem}
+.sm{height:100%m;width:4rem;margin: auto;text-align: center;padding-top:0.5 rem;font-size:0.8rem}
+.res img{background-size: cover;width:100%;height:100%}
+
